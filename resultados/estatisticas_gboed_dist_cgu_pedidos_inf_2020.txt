@@ -1,0 +1,13 @@
+	> Loading spreedsheet data files
+	> Done
+
+	> Calculando valores de PREDICAO:
+REPRESENTACAO:
+Número total de documentos na representação :  512
+Número de documentos representados :  467 	 91.2109375 %
+Número de documentos sem representação :  45 	 8.7890625 %
+
+PREDICAO:
+Número de ACERTOS na predicao da gBoED:  342 	 66.796875 %
+Número de ERROS na predicao da gBoED:  84 	 16.40625 %
+Número de NEUTROS na predicao da gBoED:  86 	 16.796875 %
